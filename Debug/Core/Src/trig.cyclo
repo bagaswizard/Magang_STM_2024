@@ -1,0 +1,3 @@
+../Core/Src/trig.cpp:18:6:void hcsr04_init()	1
+../Core/Src/trig.cpp:23:6:void HCSR04_Read()	1
+../Core/Src/trig.cpp:31:6:void HAL_TIM_IC_CaptureCallback(TIM_HandleTypeDef*)	6
